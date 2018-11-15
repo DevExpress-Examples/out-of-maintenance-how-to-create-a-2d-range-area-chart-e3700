@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/RangeArea/MainPage.xaml) (VB: [MainPage.xaml](./VB/RangeArea/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D  Range Area chart
 
 

@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/RangeArea/MainPage.xaml) (VB: [MainPage.xaml](./VB/RangeArea/MainPage.xaml))
 <!-- default file list end -->
 # How to create a 2D  Range Area chart
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3700)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to create a 2D Range Area chart.</p><br />
